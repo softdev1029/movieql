@@ -1,0 +1,9 @@
+{
+  "name": "0410-movieql",
+  "version": "1.0.0",
+  "description": "movie",
+  "main": "index.js",
+  "repository": "https://github.com/softdev1029/movieql",
+  "author": "softdev1029 <softdev1029@outlook.com>",
+  "license": "MIT"
+}
